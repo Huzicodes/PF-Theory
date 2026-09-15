@@ -222,7 +222,7 @@ int main(void)
         printf("\n\nAll zones have equal occupancy");
     }
 
-    if (zoneA_occupied + zoneB_occupied + zoneC_occupied == zoneA + zoneB + zoneC)
+    if (zoneA_remain == 0 && zoneB_remain == 0 && zoneC_remain == 0)
     {
         printf("\nEntire campus parking is full");
     }

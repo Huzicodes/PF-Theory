@@ -1,6 +1,5 @@
 # Class Result System
 ## ![Algorithm and Pseudocode](Algorithm_and_Pseudocode.jpeg)
-## ![Pseudocode](Pseudocode.jpeg)
-## ![Flowchart](Flowchart.pdf)
+## ![Flowchart](Flowchart.jpeg)
 ## ![PAC and IPO](PAC_IPO.jpeg)
 ## ![Output](Output.png)

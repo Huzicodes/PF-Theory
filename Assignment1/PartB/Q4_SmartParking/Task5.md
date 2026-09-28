@@ -4,4 +4,4 @@
 ## ![Flowchart](flowchart.pdf)
 ## ![PAC](PAC.jpeg)
 ## ![IPO](IPO.jpeg)
-## ![Output](output.png)
+## ![Output](Output.png)

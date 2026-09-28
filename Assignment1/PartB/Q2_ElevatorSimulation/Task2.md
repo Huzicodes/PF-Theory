@@ -1,5 +1,5 @@
 # Elevator Simulation
-## ![Algorithm](Algorithm.jpeg)
+## ![Algorithm and Pseudocode](Algorithm_and_Pseudocode.jpeg)
 ## ![Pseudocode](Pseudocode.jpeg)
 ## ![Flowchart](Flowchart.jpeg)
 ## ![PAC](PAC.jpeg)
